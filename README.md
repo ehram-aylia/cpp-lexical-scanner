@@ -44,7 +44,6 @@ If the scanner encounters a character that **does not match any category** (e.g.
 
 ## Sample Input & Output
 
-### Input (`input.txt`)
 ```cpp
 int main() {
     int a = 10;
